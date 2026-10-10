@@ -1,0 +1,502 @@
+Title,Author,Genre,Price,Quantity
+The Silent Patient,Alex Michaelides,Thriller,13.54,66
+Atomic Habits,James Clear,Self-Help,17.85,44
+It Ends with Us,Colleen Hoover,Romance,15.94,20
+The Hobbit,J.R.R. Tolkien,Fantasy,9.65,9
+Educated,Tara Westover,Memoir,15.23,72
+Ikigai,Héctor García and Francesc Miralles,Self-Help,10.47,79
+Harry Potter and the Philosopher's Stone,J.K. Rowling,Fantasy,12.21,50
+The Alchemist,Paulo Coelho,Fiction,11.39,37
+The Psychology of Money,Morgan Housel,Finance,14.12,40
+Where the Crawdads Sing,Delia Owens,Mystery,14.09,83
+The Book Thief,Markus Zusak,Historical Fiction,10.95,9
+Sapiens,Yuval Noah Harari,History,16.27,56
+A Man Called Ove,Fredrik Backman,Fiction,15.57,27
+The Midnight Library,Matt Haig,Fantasy,12.42,63
+Pride and Prejudice,Jane Austen,Classic,7.76,6
+The Silent Patient (Edition 2),Alex Michaelides,Thriller,12.71,98
+Atomic Habits (Edition 2),James Clear,Self-Help,15.73,76
+It Ends with Us (Edition 2),Colleen Hoover,Romance,15.21,19
+The Hobbit (Edition 2),J.R.R. Tolkien,Fantasy,12.65,55
+Educated (Edition 2),Tara Westover,Memoir,15.78,15
+Ikigai (Edition 2),Héctor García and Francesc Miralles,Self-Help,14.35,37
+Harry Potter and the Philosopher's Stone (Edition 2),J.K. Rowling,Fantasy,12.83,97
+The Alchemist (Edition 2),Paulo Coelho,Fiction,8.53,7
+The Psychology of Money (Edition 2),Morgan Housel,Finance,16.03,47
+Where the Crawdads Sing (Edition 2),Delia Owens,Mystery,13.04,69
+The Book Thief (Edition 2),Markus Zusak,Historical Fiction,11.02,48
+Sapiens (Edition 2),Yuval Noah Harari,History,19.17,94
+A Man Called Ove (Edition 2),Fredrik Backman,Fiction,14.97,44
+The Midnight Library (Edition 2),Matt Haig,Fantasy,11.55,43
+Pride and Prejudice (Edition 2),Jane Austen,Classic,9.2,81
+The Silent Patient (Edition 3),Alex Michaelides,Thriller,13.38,24
+Atomic Habits (Edition 3),James Clear,Self-Help,16.9,68
+It Ends with Us (Edition 3),Colleen Hoover,Romance,15.47,81
+The Hobbit (Edition 3),J.R.R. Tolkien,Fantasy,12.51,0
+Educated (Edition 3),Tara Westover,Memoir,16.14,47
+Ikigai (Edition 3),Héctor García and Francesc Miralles,Self-Help,9.92,71
+Harry Potter and the Philosopher's Stone (Edition 3),J.K. Rowling,Fantasy,12.9,51
+The Alchemist (Edition 3),Paulo Coelho,Fiction,9.49,57
+The Psychology of Money (Edition 3),Morgan Housel,Finance,16.69,44
+Where the Crawdads Sing (Edition 3),Delia Owens,Mystery,14.99,67
+The Book Thief (Edition 3),Markus Zusak,Historical Fiction,9.47,7
+Sapiens (Edition 3),Yuval Noah Harari,History,18.29,77
+A Man Called Ove (Edition 3),Fredrik Backman,Fiction,15.05,9
+The Midnight Library (Edition 3),Matt Haig,Fantasy,14.18,56
+Pride and Prejudice (Edition 3),Jane Austen,Classic,8.36,35
+The Silent Patient (Edition 4),Alex Michaelides,Thriller,14.53,44
+Atomic Habits (Edition 4),James Clear,Self-Help,16.16,100
+It Ends with Us (Edition 4),Colleen Hoover,Romance,12.21,86
+The Hobbit (Edition 4),J.R.R. Tolkien,Fantasy,10.33,86
+Educated (Edition 4),Tara Westover,Memoir,15.26,28
+Ikigai (Edition 4),Héctor García and Francesc Miralles,Self-Help,11.74,12
+Harry Potter and the Philosopher's Stone (Edition 4),J.K. Rowling,Fantasy,14.04,56
+The Alchemist (Edition 4),Paulo Coelho,Fiction,11.12,41
+The Psychology of Money (Edition 4),Morgan Housel,Finance,14.82,41
+Where the Crawdads Sing (Edition 4),Delia Owens,Mystery,12.06,33
+The Book Thief (Edition 4),Markus Zusak,Historical Fiction,11.81,2
+Sapiens (Edition 4),Yuval Noah Harari,History,15.85,70
+A Man Called Ove (Edition 4),Fredrik Backman,Fiction,13.15,46
+The Midnight Library (Edition 4),Matt Haig,Fantasy,12.77,94
+Pride and Prejudice (Edition 4),Jane Austen,Classic,9.79,15
+The Silent Patient (Edition 5),Alex Michaelides,Thriller,14.19,16
+Atomic Habits (Edition 5),James Clear,Self-Help,15.74,38
+It Ends with Us (Edition 5),Colleen Hoover,Romance,14.11,61
+The Hobbit (Edition 5),J.R.R. Tolkien,Fantasy,9.39,36
+Educated (Edition 5),Tara Westover,Memoir,12.62,34
+Ikigai (Edition 5),Héctor García and Francesc Miralles,Self-Help,11.22,97
+Harry Potter and the Philosopher's Stone (Edition 5),J.K. Rowling,Fantasy,12.12,46
+The Alchemist (Edition 5),Paulo Coelho,Fiction,12.33,26
+The Psychology of Money (Edition 5),Morgan Housel,Finance,13.36,26
+Where the Crawdads Sing (Edition 5),Delia Owens,Mystery,11.57,72
+The Book Thief (Edition 5),Markus Zusak,Historical Fiction,12.13,8
+Sapiens (Edition 5),Yuval Noah Harari,History,17.39,9
+A Man Called Ove (Edition 5),Fredrik Backman,Fiction,15.5,71
+The Midnight Library (Edition 5),Matt Haig,Fantasy,13.53,20
+Pride and Prejudice (Edition 5),Jane Austen,Classic,9.42,55
+The Silent Patient (Edition 6),Alex Michaelides,Thriller,10.39,17
+Atomic Habits (Edition 6),James Clear,Self-Help,16.63,49
+It Ends with Us (Edition 6),Colleen Hoover,Romance,14.67,72
+The Hobbit (Edition 6),J.R.R. Tolkien,Fantasy,12.03,14
+Educated (Edition 6),Tara Westover,Memoir,14.57,58
+Ikigai (Edition 6),Héctor García and Francesc Miralles,Self-Help,8.66,76
+Harry Potter and the Philosopher's Stone (Edition 6),J.K. Rowling,Fantasy,14.15,41
+The Alchemist (Edition 6),Paulo Coelho,Fiction,12.44,19
+The Psychology of Money (Edition 6),Morgan Housel,Finance,14.64,33
+Where the Crawdads Sing (Edition 6),Delia Owens,Mystery,15.88,17
+The Book Thief (Edition 6),Markus Zusak,Historical Fiction,11.35,59
+Sapiens (Edition 6),Yuval Noah Harari,History,16.33,99
+A Man Called Ove (Edition 6),Fredrik Backman,Fiction,11.51,58
+The Midnight Library (Edition 6),Matt Haig,Fantasy,13.89,29
+Pride and Prejudice (Edition 6),Jane Austen,Classic,6.34,2
+The Silent Patient (Edition 7),Alex Michaelides,Thriller,11.16,47
+Atomic Habits (Edition 7),James Clear,Self-Help,18.01,79
+It Ends with Us (Edition 7),Colleen Hoover,Romance,17.84,67
+The Hobbit (Edition 7),J.R.R. Tolkien,Fantasy,12.74,49
+Educated (Edition 7),Tara Westover,Memoir,13.22,54
+Ikigai (Edition 7),Héctor García and Francesc Miralles,Self-Help,10.98,47
+Harry Potter and the Philosopher's Stone (Edition 7),J.K. Rowling,Fantasy,12.29,55
+The Alchemist (Edition 7),Paulo Coelho,Fiction,8.89,52
+The Psychology of Money (Edition 7),Morgan Housel,Finance,13.75,36
+Where the Crawdads Sing (Edition 7),Delia Owens,Mystery,13.53,83
+The Book Thief (Edition 7),Markus Zusak,Historical Fiction,12.21,30
+Sapiens (Edition 7),Yuval Noah Harari,History,14.99,55
+A Man Called Ove (Edition 7),Fredrik Backman,Fiction,13.11,12
+The Midnight Library (Edition 7),Matt Haig,Fantasy,13.26,28
+Pride and Prejudice (Edition 7),Jane Austen,Classic,12.17,94
+The Silent Patient (Edition 8),Alex Michaelides,Thriller,14.76,77
+Atomic Habits (Edition 8),James Clear,Self-Help,15.6,98
+It Ends with Us (Edition 8),Colleen Hoover,Romance,12.51,23
+The Hobbit (Edition 8),J.R.R. Tolkien,Fantasy,10.68,55
+Educated (Edition 8),Tara Westover,Memoir,13.52,37
+Ikigai (Edition 8),Héctor García and Francesc Miralles,Self-Help,12.01,97
+Harry Potter and the Philosopher's Stone (Edition 8),J.K. Rowling,Fantasy,15.43,32
+The Alchemist (Edition 8),Paulo Coelho,Fiction,10.68,62
+The Psychology of Money (Edition 8),Morgan Housel,Finance,13.93,52
+Where the Crawdads Sing (Edition 8),Delia Owens,Mystery,12.07,18
+The Book Thief (Edition 8),Markus Zusak,Historical Fiction,11.68,16
+Sapiens (Edition 8),Yuval Noah Harari,History,15.79,97
+A Man Called Ove (Edition 8),Fredrik Backman,Fiction,14.3,100
+The Midnight Library (Edition 8),Matt Haig,Fantasy,15.59,85
+Pride and Prejudice (Edition 8),Jane Austen,Classic,8.78,89
+The Silent Patient (Edition 9),Alex Michaelides,Thriller,13.5,47
+Atomic Habits (Edition 9),James Clear,Self-Help,16.89,31
+It Ends with Us (Edition 9),Colleen Hoover,Romance,13.51,41
+The Hobbit (Edition 9),J.R.R. Tolkien,Fantasy,12.76,37
+Educated (Edition 9),Tara Westover,Memoir,17.76,38
+Ikigai (Edition 9),Héctor García and Francesc Miralles,Self-Help,8.3,26
+Harry Potter and the Philosopher's Stone (Edition 9),J.K. Rowling,Fantasy,11.29,3
+The Alchemist (Edition 9),Paulo Coelho,Fiction,13.09,12
+The Psychology of Money (Edition 9),Morgan Housel,Finance,13.68,75
+Where the Crawdads Sing (Edition 9),Delia Owens,Mystery,15.88,18
+The Book Thief (Edition 9),Markus Zusak,Historical Fiction,10.51,28
+Sapiens (Edition 9),Yuval Noah Harari,History,19.16,31
+A Man Called Ove (Edition 9),Fredrik Backman,Fiction,13.28,50
+The Midnight Library (Edition 9),Matt Haig,Fantasy,12.46,50
+Pride and Prejudice (Edition 9),Jane Austen,Classic,9.6,17
+The Silent Patient (Edition 10),Alex Michaelides,Thriller,13.15,23
+Atomic Habits (Edition 10),James Clear,Self-Help,17.66,97
+It Ends with Us (Edition 10),Colleen Hoover,Romance,14.16,12
+The Hobbit (Edition 10),J.R.R. Tolkien,Fantasy,10.47,77
+Educated (Edition 10),Tara Westover,Memoir,13.42,58
+Ikigai (Edition 10),Héctor García and Francesc Miralles,Self-Help,9.9,2
+Harry Potter and the Philosopher's Stone (Edition 10),J.K. Rowling,Fantasy,11.36,72
+The Alchemist (Edition 10),Paulo Coelho,Fiction,10.05,43
+The Psychology of Money (Edition 10),Morgan Housel,Finance,14.88,12
+Where the Crawdads Sing (Edition 10),Delia Owens,Mystery,12.38,98
+The Book Thief (Edition 10),Markus Zusak,Historical Fiction,14.3,30
+Sapiens (Edition 10),Yuval Noah Harari,History,18.97,31
+A Man Called Ove (Edition 10),Fredrik Backman,Fiction,13.71,96
+The Midnight Library (Edition 10),Matt Haig,Fantasy,11.5,50
+Pride and Prejudice (Edition 10),Jane Austen,Classic,9.43,2
+The Silent Patient (Edition 11),Alex Michaelides,Thriller,13.31,84
+Atomic Habits (Edition 11),James Clear,Self-Help,16.66,10
+It Ends with Us (Edition 11),Colleen Hoover,Romance,14.66,0
+The Hobbit (Edition 11),J.R.R. Tolkien,Fantasy,15.37,97
+Educated (Edition 11),Tara Westover,Memoir,13.46,74
+Ikigai (Edition 11),Héctor García and Francesc Miralles,Self-Help,7.87,81
+Harry Potter and the Philosopher's Stone (Edition 11),J.K. Rowling,Fantasy,12.69,85
+The Alchemist (Edition 11),Paulo Coelho,Fiction,12.16,1
+The Psychology of Money (Edition 11),Morgan Housel,Finance,12.69,25
+Where the Crawdads Sing (Edition 11),Delia Owens,Mystery,9.38,80
+The Book Thief (Edition 11),Markus Zusak,Historical Fiction,12.21,77
+Sapiens (Edition 11),Yuval Noah Harari,History,17.05,61
+A Man Called Ove (Edition 11),Fredrik Backman,Fiction,12.41,11
+The Midnight Library (Edition 11),Matt Haig,Fantasy,9.59,65
+Pride and Prejudice (Edition 11),Jane Austen,Classic,6.35,53
+The Silent Patient (Edition 12),Alex Michaelides,Thriller,10.67,25
+Atomic Habits (Edition 12),James Clear,Self-Help,14.53,84
+It Ends with Us (Edition 12),Colleen Hoover,Romance,19.48,82
+The Hobbit (Edition 12),J.R.R. Tolkien,Fantasy,9.88,48
+Educated (Edition 12),Tara Westover,Memoir,15.61,60
+Ikigai (Edition 12),Héctor García and Francesc Miralles,Self-Help,13.61,32
+Harry Potter and the Philosopher's Stone (Edition 12),J.K. Rowling,Fantasy,13.31,31
+The Alchemist (Edition 12),Paulo Coelho,Fiction,11.39,60
+The Psychology of Money (Edition 12),Morgan Housel,Finance,13.32,16
+Where the Crawdads Sing (Edition 12),Delia Owens,Mystery,13.01,46
+The Book Thief (Edition 12),Markus Zusak,Historical Fiction,12.07,11
+Sapiens (Edition 12),Yuval Noah Harari,History,17.52,19
+A Man Called Ove (Edition 12),Fredrik Backman,Fiction,12.99,17
+The Midnight Library (Edition 12),Matt Haig,Fantasy,13.6,52
+Pride and Prejudice (Edition 12),Jane Austen,Classic,9.27,68
+The Silent Patient (Edition 13),Alex Michaelides,Thriller,13.62,99
+Atomic Habits (Edition 13),James Clear,Self-Help,16.5,50
+It Ends with Us (Edition 13),Colleen Hoover,Romance,12.95,54
+The Hobbit (Edition 13),J.R.R. Tolkien,Fantasy,11.81,4
+Educated (Edition 13),Tara Westover,Memoir,18.77,64
+Ikigai (Edition 13),Héctor García and Francesc Miralles,Self-Help,11.19,57
+Harry Potter and the Philosopher's Stone (Edition 13),J.K. Rowling,Fantasy,12.38,0
+The Alchemist (Edition 13),Paulo Coelho,Fiction,10.46,37
+The Psychology of Money (Edition 13),Morgan Housel,Finance,12.0,9
+Where the Crawdads Sing (Edition 13),Delia Owens,Mystery,13.72,84
+The Book Thief (Edition 13),Markus Zusak,Historical Fiction,13.36,69
+Sapiens (Edition 13),Yuval Noah Harari,History,19.67,10
+A Man Called Ove (Edition 13),Fredrik Backman,Fiction,14.81,24
+The Midnight Library (Edition 13),Matt Haig,Fantasy,11.9,98
+Pride and Prejudice (Edition 13),Jane Austen,Classic,9.46,63
+The Silent Patient (Edition 14),Alex Michaelides,Thriller,12.46,64
+Atomic Habits (Edition 14),James Clear,Self-Help,16.31,83
+It Ends with Us (Edition 14),Colleen Hoover,Romance,14.52,54
+The Hobbit (Edition 14),J.R.R. Tolkien,Fantasy,14.64,84
+Educated (Edition 14),Tara Westover,Memoir,14.57,46
+Ikigai (Edition 14),Héctor García and Francesc Miralles,Self-Help,10.82,25
+Harry Potter and the Philosopher's Stone (Edition 14),J.K. Rowling,Fantasy,13.08,26
+The Alchemist (Edition 14),Paulo Coelho,Fiction,6.83,16
+The Psychology of Money (Edition 14),Morgan Housel,Finance,17.11,42
+Where the Crawdads Sing (Edition 14),Delia Owens,Mystery,10.49,51
+The Book Thief (Edition 14),Markus Zusak,Historical Fiction,11.91,37
+Sapiens (Edition 14),Yuval Noah Harari,History,17.89,18
+A Man Called Ove (Edition 14),Fredrik Backman,Fiction,13.39,69
+The Midnight Library (Edition 14),Matt Haig,Fantasy,15.09,67
+Pride and Prejudice (Edition 14),Jane Austen,Classic,12.11,92
+The Silent Patient (Edition 15),Alex Michaelides,Thriller,15.11,46
+Atomic Habits (Edition 15),James Clear,Self-Help,19.64,54
+It Ends with Us (Edition 15),Colleen Hoover,Romance,15.04,20
+The Hobbit (Edition 15),J.R.R. Tolkien,Fantasy,11.46,81
+Educated (Edition 15),Tara Westover,Memoir,15.12,7
+Ikigai (Edition 15),Héctor García and Francesc Miralles,Self-Help,12.28,29
+Harry Potter and the Philosopher's Stone (Edition 15),J.K. Rowling,Fantasy,11.63,60
+The Alchemist (Edition 15),Paulo Coelho,Fiction,9.65,70
+The Psychology of Money (Edition 15),Morgan Housel,Finance,16.11,64
+Where the Crawdads Sing (Edition 15),Delia Owens,Mystery,16.53,9
+The Book Thief (Edition 15),Markus Zusak,Historical Fiction,13.82,52
+Sapiens (Edition 15),Yuval Noah Harari,History,17.88,94
+A Man Called Ove (Edition 15),Fredrik Backman,Fiction,11.88,17
+The Midnight Library (Edition 15),Matt Haig,Fantasy,15.47,80
+Pride and Prejudice (Edition 15),Jane Austen,Classic,10.14,100
+The Silent Patient (Edition 16),Alex Michaelides,Thriller,11.17,80
+Atomic Habits (Edition 16),James Clear,Self-Help,16.56,72
+It Ends with Us (Edition 16),Colleen Hoover,Romance,13.04,59
+The Hobbit (Edition 16),J.R.R. Tolkien,Fantasy,12.55,13
+Educated (Edition 16),Tara Westover,Memoir,16.1,57
+Ikigai (Edition 16),Héctor García and Francesc Miralles,Self-Help,6.38,68
+Harry Potter and the Philosopher's Stone (Edition 16),J.K. Rowling,Fantasy,13.88,52
+The Alchemist (Edition 16),Paulo Coelho,Fiction,10.74,52
+The Psychology of Money (Edition 16),Morgan Housel,Finance,10.29,49
+Where the Crawdads Sing (Edition 16),Delia Owens,Mystery,12.19,85
+The Book Thief (Edition 16),Markus Zusak,Historical Fiction,9.65,12
+Sapiens (Edition 16),Yuval Noah Harari,History,20.66,49
+A Man Called Ove (Edition 16),Fredrik Backman,Fiction,15.51,66
+The Midnight Library (Edition 16),Matt Haig,Fantasy,11.72,21
+Pride and Prejudice (Edition 16),Jane Austen,Classic,10.91,67
+The Silent Patient (Edition 17),Alex Michaelides,Thriller,13.41,82
+Atomic Habits (Edition 17),James Clear,Self-Help,16.99,77
+It Ends with Us (Edition 17),Colleen Hoover,Romance,12.7,53
+The Hobbit (Edition 17),J.R.R. Tolkien,Fantasy,11.72,31
+Educated (Edition 17),Tara Westover,Memoir,15.69,8
+Ikigai (Edition 17),Héctor García and Francesc Miralles,Self-Help,8.59,94
+Harry Potter and the Philosopher's Stone (Edition 17),J.K. Rowling,Fantasy,13.52,12
+The Alchemist (Edition 17),Paulo Coelho,Fiction,8.65,73
+The Psychology of Money (Edition 17),Morgan Housel,Finance,12.52,36
+Where the Crawdads Sing (Edition 17),Delia Owens,Mystery,14.77,78
+The Book Thief (Edition 17),Markus Zusak,Historical Fiction,12.52,65
+Sapiens (Edition 17),Yuval Noah Harari,History,19.54,99
+A Man Called Ove (Edition 17),Fredrik Backman,Fiction,15.51,42
+The Midnight Library (Edition 17),Matt Haig,Fantasy,16.94,11
+Pride and Prejudice (Edition 17),Jane Austen,Classic,8.62,12
+The Silent Patient (Edition 18),Alex Michaelides,Thriller,15.88,12
+Atomic Habits (Edition 18),James Clear,Self-Help,15.68,54
+It Ends with Us (Edition 18),Colleen Hoover,Romance,16.61,1
+The Hobbit (Edition 18),J.R.R. Tolkien,Fantasy,9.11,43
+Educated (Edition 18),Tara Westover,Memoir,12.12,29
+Ikigai (Edition 18),Héctor García and Francesc Miralles,Self-Help,9.07,1
+Harry Potter and the Philosopher's Stone (Edition 18),J.K. Rowling,Fantasy,14.69,30
+The Alchemist (Edition 18),Paulo Coelho,Fiction,10.49,55
+The Psychology of Money (Edition 18),Morgan Housel,Finance,9.84,11
+Where the Crawdads Sing (Edition 18),Delia Owens,Mystery,13.35,69
+The Book Thief (Edition 18),Markus Zusak,Historical Fiction,13.33,28
+Sapiens (Edition 18),Yuval Noah Harari,History,19.26,67
+A Man Called Ove (Edition 18),Fredrik Backman,Fiction,12.8,100
+The Midnight Library (Edition 18),Matt Haig,Fantasy,13.0,62
+Pride and Prejudice (Edition 18),Jane Austen,Classic,9.4,9
+The Silent Patient (Edition 19),Alex Michaelides,Thriller,13.94,24
+Atomic Habits (Edition 19),James Clear,Self-Help,16.18,24
+It Ends with Us (Edition 19),Colleen Hoover,Romance,14.6,81
+The Hobbit (Edition 19),J.R.R. Tolkien,Fantasy,11.28,20
+Educated (Edition 19),Tara Westover,Memoir,15.94,91
+Ikigai (Edition 19),Héctor García and Francesc Miralles,Self-Help,10.29,3
+Harry Potter and the Philosopher's Stone (Edition 19),J.K. Rowling,Fantasy,15.24,82
+The Alchemist (Edition 19),Paulo Coelho,Fiction,7.66,61
+The Psychology of Money (Edition 19),Morgan Housel,Finance,11.33,29
+Where the Crawdads Sing (Edition 19),Delia Owens,Mystery,12.03,85
+The Book Thief (Edition 19),Markus Zusak,Historical Fiction,13.85,97
+Sapiens (Edition 19),Yuval Noah Harari,History,18.36,93
+A Man Called Ove (Edition 19),Fredrik Backman,Fiction,15.95,82
+The Midnight Library (Edition 19),Matt Haig,Fantasy,12.63,84
+Pride and Prejudice (Edition 19),Jane Austen,Classic,11.43,55
+The Silent Patient (Edition 20),Alex Michaelides,Thriller,11.48,63
+Atomic Habits (Edition 20),James Clear,Self-Help,15.43,82
+It Ends with Us (Edition 20),Colleen Hoover,Romance,12.65,74
+The Hobbit (Edition 20),J.R.R. Tolkien,Fantasy,11.35,10
+Educated (Edition 20),Tara Westover,Memoir,18.1,71
+Ikigai (Edition 20),Héctor García and Francesc Miralles,Self-Help,8.01,51
+Harry Potter and the Philosopher's Stone (Edition 20),J.K. Rowling,Fantasy,11.88,5
+The Alchemist (Edition 20),Paulo Coelho,Fiction,10.84,22
+The Psychology of Money (Edition 20),Morgan Housel,Finance,10.7,89
+Where the Crawdads Sing (Edition 20),Delia Owens,Mystery,14.92,37
+The Book Thief (Edition 20),Markus Zusak,Historical Fiction,11.54,9
+Sapiens (Edition 20),Yuval Noah Harari,History,16.07,59
+A Man Called Ove (Edition 20),Fredrik Backman,Fiction,14.76,46
+The Midnight Library (Edition 20),Matt Haig,Fantasy,12.41,88
+Pride and Prejudice (Edition 20),Jane Austen,Classic,9.64,57
+The Silent Patient (Edition 21),Alex Michaelides,Thriller,15.37,54
+Atomic Habits (Edition 21),James Clear,Self-Help,13.84,30
+It Ends with Us (Edition 21),Colleen Hoover,Romance,16.17,26
+The Hobbit (Edition 21),J.R.R. Tolkien,Fantasy,14.0,65
+Educated (Edition 21),Tara Westover,Memoir,15.69,46
+Ikigai (Edition 21),Héctor García and Francesc Miralles,Self-Help,11.13,51
+Harry Potter and the Philosopher's Stone (Edition 21),J.K. Rowling,Fantasy,17.26,13
+The Alchemist (Edition 21),Paulo Coelho,Fiction,10.11,12
+The Psychology of Money (Edition 21),Morgan Housel,Finance,14.29,9
+Where the Crawdads Sing (Edition 21),Delia Owens,Mystery,11.73,30
+The Book Thief (Edition 21),Markus Zusak,Historical Fiction,13.1,40
+Sapiens (Edition 21),Yuval Noah Harari,History,18.57,64
+A Man Called Ove (Edition 21),Fredrik Backman,Fiction,12.49,84
+The Midnight Library (Edition 21),Matt Haig,Fantasy,9.02,21
+Pride and Prejudice (Edition 21),Jane Austen,Classic,6.98,92
+The Silent Patient (Edition 22),Alex Michaelides,Thriller,12.46,3
+Atomic Habits (Edition 22),James Clear,Self-Help,19.99,14
+It Ends with Us (Edition 22),Colleen Hoover,Romance,12.52,22
+The Hobbit (Edition 22),J.R.R. Tolkien,Fantasy,12.62,59
+Educated (Edition 22),Tara Westover,Memoir,14.49,70
+Ikigai (Edition 22),Héctor García and Francesc Miralles,Self-Help,10.83,62
+Harry Potter and the Philosopher's Stone (Edition 22),J.K. Rowling,Fantasy,13.14,31
+The Alchemist (Edition 22),Paulo Coelho,Fiction,11.9,19
+The Psychology of Money (Edition 22),Morgan Housel,Finance,14.01,43
+Where the Crawdads Sing (Edition 22),Delia Owens,Mystery,17.93,97
+The Book Thief (Edition 22),Markus Zusak,Historical Fiction,15.08,51
+Sapiens (Edition 22),Yuval Noah Harari,History,18.16,12
+A Man Called Ove (Edition 22),Fredrik Backman,Fiction,13.89,93
+The Midnight Library (Edition 22),Matt Haig,Fantasy,12.44,27
+Pride and Prejudice (Edition 22),Jane Austen,Classic,9.76,80
+The Silent Patient (Edition 23),Alex Michaelides,Thriller,11.46,38
+Atomic Habits (Edition 23),James Clear,Self-Help,17.6,49
+It Ends with Us (Edition 23),Colleen Hoover,Romance,15.45,87
+The Hobbit (Edition 23),J.R.R. Tolkien,Fantasy,12.65,85
+Educated (Edition 23),Tara Westover,Memoir,14.48,57
+Ikigai (Edition 23),Héctor García and Francesc Miralles,Self-Help,9.94,33
+Harry Potter and the Philosopher's Stone (Edition 23),J.K. Rowling,Fantasy,15.43,6
+The Alchemist (Edition 23),Paulo Coelho,Fiction,9.39,75
+The Psychology of Money (Edition 23),Morgan Housel,Finance,10.42,71
+Where the Crawdads Sing (Edition 23),Delia Owens,Mystery,15.7,86
+The Book Thief (Edition 23),Markus Zusak,Historical Fiction,14.11,24
+Sapiens (Edition 23),Yuval Noah Harari,History,15.3,60
+A Man Called Ove (Edition 23),Fredrik Backman,Fiction,8.65,50
+The Midnight Library (Edition 23),Matt Haig,Fantasy,17.11,96
+Pride and Prejudice (Edition 23),Jane Austen,Classic,9.77,42
+The Silent Patient (Edition 24),Alex Michaelides,Thriller,13.83,31
+Atomic Habits (Edition 24),James Clear,Self-Help,13.69,76
+It Ends with Us (Edition 24),Colleen Hoover,Romance,14.43,39
+The Hobbit (Edition 24),J.R.R. Tolkien,Fantasy,11.84,68
+Educated (Edition 24),Tara Westover,Memoir,15.62,21
+Ikigai (Edition 24),Héctor García and Francesc Miralles,Self-Help,11.7,71
+Harry Potter and the Philosopher's Stone (Edition 24),J.K. Rowling,Fantasy,15.37,16
+The Alchemist (Edition 24),Paulo Coelho,Fiction,12.92,96
+The Psychology of Money (Edition 24),Morgan Housel,Finance,12.4,56
+Where the Crawdads Sing (Edition 24),Delia Owens,Mystery,15.65,65
+The Book Thief (Edition 24),Markus Zusak,Historical Fiction,15.03,14
+Sapiens (Edition 24),Yuval Noah Harari,History,17.2,33
+A Man Called Ove (Edition 24),Fredrik Backman,Fiction,14.23,8
+The Midnight Library (Edition 24),Matt Haig,Fantasy,13.21,48
+Pride and Prejudice (Edition 24),Jane Austen,Classic,8.34,47
+The Silent Patient (Edition 25),Alex Michaelides,Thriller,11.3,24
+Atomic Habits (Edition 25),James Clear,Self-Help,17.31,91
+It Ends with Us (Edition 25),Colleen Hoover,Romance,11.43,19
+The Hobbit (Edition 25),J.R.R. Tolkien,Fantasy,11.02,29
+Educated (Edition 25),Tara Westover,Memoir,17.07,73
+Ikigai (Edition 25),Héctor García and Francesc Miralles,Self-Help,9.08,49
+Harry Potter and the Philosopher's Stone (Edition 25),J.K. Rowling,Fantasy,10.71,84
+The Alchemist (Edition 25),Paulo Coelho,Fiction,10.44,85
+The Psychology of Money (Edition 25),Morgan Housel,Finance,13.68,41
+Where the Crawdads Sing (Edition 25),Delia Owens,Mystery,12.96,67
+The Book Thief (Edition 25),Markus Zusak,Historical Fiction,12.87,73
+Sapiens (Edition 25),Yuval Noah Harari,History,19.27,37
+A Man Called Ove (Edition 25),Fredrik Backman,Fiction,15.18,94
+The Midnight Library (Edition 25),Matt Haig,Fantasy,13.75,85
+Pride and Prejudice (Edition 25),Jane Austen,Classic,9.52,69
+The Silent Patient (Edition 26),Alex Michaelides,Thriller,12.83,86
+Atomic Habits (Edition 26),James Clear,Self-Help,15.95,30
+It Ends with Us (Edition 26),Colleen Hoover,Romance,12.39,59
+The Hobbit (Edition 26),J.R.R. Tolkien,Fantasy,9.75,58
+Educated (Edition 26),Tara Westover,Memoir,14.08,50
+Ikigai (Edition 26),Héctor García and Francesc Miralles,Self-Help,8.9,2
+Harry Potter and the Philosopher's Stone (Edition 26),J.K. Rowling,Fantasy,14.35,40
+The Alchemist (Edition 26),Paulo Coelho,Fiction,10.08,39
+The Psychology of Money (Edition 26),Morgan Housel,Finance,15.62,17
+Where the Crawdads Sing (Edition 26),Delia Owens,Mystery,14.58,26
+The Book Thief (Edition 26),Markus Zusak,Historical Fiction,11.32,2
+Sapiens (Edition 26),Yuval Noah Harari,History,18.99,42
+A Man Called Ove (Edition 26),Fredrik Backman,Fiction,11.38,31
+The Midnight Library (Edition 26),Matt Haig,Fantasy,12.63,41
+Pride and Prejudice (Edition 26),Jane Austen,Classic,7.37,28
+The Silent Patient (Edition 27),Alex Michaelides,Thriller,13.33,72
+Atomic Habits (Edition 27),James Clear,Self-Help,18.91,99
+It Ends with Us (Edition 27),Colleen Hoover,Romance,16.5,99
+The Hobbit (Edition 27),J.R.R. Tolkien,Fantasy,12.64,76
+Educated (Edition 27),Tara Westover,Memoir,10.66,28
+Ikigai (Edition 27),Héctor García and Francesc Miralles,Self-Help,9.97,97
+Harry Potter and the Philosopher's Stone (Edition 27),J.K. Rowling,Fantasy,11.82,7
+The Alchemist (Edition 27),Paulo Coelho,Fiction,13.59,11
+The Psychology of Money (Edition 27),Morgan Housel,Finance,11.88,65
+Where the Crawdads Sing (Edition 27),Delia Owens,Mystery,13.67,55
+The Book Thief (Edition 27),Markus Zusak,Historical Fiction,15.4,10
+Sapiens (Edition 27),Yuval Noah Harari,History,18.45,99
+A Man Called Ove (Edition 27),Fredrik Backman,Fiction,17.27,98
+The Midnight Library (Edition 27),Matt Haig,Fantasy,11.99,75
+Pride and Prejudice (Edition 27),Jane Austen,Classic,6.02,30
+The Silent Patient (Edition 28),Alex Michaelides,Thriller,12.23,4
+Atomic Habits (Edition 28),James Clear,Self-Help,15.56,88
+It Ends with Us (Edition 28),Colleen Hoover,Romance,14.68,99
+The Hobbit (Edition 28),J.R.R. Tolkien,Fantasy,8.8,24
+Educated (Edition 28),Tara Westover,Memoir,13.96,41
+Ikigai (Edition 28),Héctor García and Francesc Miralles,Self-Help,12.79,22
+Harry Potter and the Philosopher's Stone (Edition 28),J.K. Rowling,Fantasy,12.6,56
+The Alchemist (Edition 28),Paulo Coelho,Fiction,10.96,44
+The Psychology of Money (Edition 28),Morgan Housel,Finance,14.81,83
+Where the Crawdads Sing (Edition 28),Delia Owens,Mystery,10.22,96
+The Book Thief (Edition 28),Markus Zusak,Historical Fiction,10.64,4
+Sapiens (Edition 28),Yuval Noah Harari,History,18.42,77
+A Man Called Ove (Edition 28),Fredrik Backman,Fiction,14.79,72
+The Midnight Library (Edition 28),Matt Haig,Fantasy,11.3,74
+Pride and Prejudice (Edition 28),Jane Austen,Classic,10.27,74
+The Silent Patient (Edition 29),Alex Michaelides,Thriller,13.42,91
+Atomic Habits (Edition 29),James Clear,Self-Help,19.11,23
+It Ends with Us (Edition 29),Colleen Hoover,Romance,13.46,44
+The Hobbit (Edition 29),J.R.R. Tolkien,Fantasy,12.47,0
+Educated (Edition 29),Tara Westover,Memoir,13.88,53
+Ikigai (Edition 29),Héctor García and Francesc Miralles,Self-Help,9.54,2
+Harry Potter and the Philosopher's Stone (Edition 29),J.K. Rowling,Fantasy,13.01,61
+The Alchemist (Edition 29),Paulo Coelho,Fiction,8.12,67
+The Psychology of Money (Edition 29),Morgan Housel,Finance,9.66,52
+Where the Crawdads Sing (Edition 29),Delia Owens,Mystery,17.84,35
+The Book Thief (Edition 29),Markus Zusak,Historical Fiction,11.77,71
+Sapiens (Edition 29),Yuval Noah Harari,History,17.44,59
+A Man Called Ove (Edition 29),Fredrik Backman,Fiction,13.47,55
+The Midnight Library (Edition 29),Matt Haig,Fantasy,10.75,89
+Pride and Prejudice (Edition 29),Jane Austen,Classic,10.03,68
+The Silent Patient (Edition 30),Alex Michaelides,Thriller,10.3,34
+Atomic Habits (Edition 30),James Clear,Self-Help,17.76,53
+It Ends with Us (Edition 30),Colleen Hoover,Romance,14.56,100
+The Hobbit (Edition 30),J.R.R. Tolkien,Fantasy,11.38,53
+Educated (Edition 30),Tara Westover,Memoir,16.11,13
+Ikigai (Edition 30),Héctor García and Francesc Miralles,Self-Help,7.38,6
+Harry Potter and the Philosopher's Stone (Edition 30),J.K. Rowling,Fantasy,13.05,39
+The Alchemist (Edition 30),Paulo Coelho,Fiction,13.32,34
+The Psychology of Money (Edition 30),Morgan Housel,Finance,17.0,13
+Where the Crawdads Sing (Edition 30),Delia Owens,Mystery,11.26,35
+The Book Thief (Edition 30),Markus Zusak,Historical Fiction,13.07,20
+Sapiens (Edition 30),Yuval Noah Harari,History,16.44,97
+A Man Called Ove (Edition 30),Fredrik Backman,Fiction,16.17,64
+The Midnight Library (Edition 30),Matt Haig,Fantasy,12.17,89
+Pride and Prejudice (Edition 30),Jane Austen,Classic,8.96,96
+The Silent Patient (Edition 31),Alex Michaelides,Thriller,11.37,99
+Atomic Habits (Edition 31),James Clear,Self-Help,16.35,28
+It Ends with Us (Edition 31),Colleen Hoover,Romance,11.18,56
+The Hobbit (Edition 31),J.R.R. Tolkien,Fantasy,12.86,32
+Educated (Edition 31),Tara Westover,Memoir,14.06,99
+Ikigai (Edition 31),Héctor García and Francesc Miralles,Self-Help,11.91,74
+Harry Potter and the Philosopher's Stone (Edition 31),J.K. Rowling,Fantasy,14.24,2
+The Alchemist (Edition 31),Paulo Coelho,Fiction,7.62,30
+The Psychology of Money (Edition 31),Morgan Housel,Finance,15.5,17
+Where the Crawdads Sing (Edition 31),Delia Owens,Mystery,17.54,15
+The Book Thief (Edition 31),Markus Zusak,Historical Fiction,13.26,25
+Sapiens (Edition 31),Yuval Noah Harari,History,17.7,79
+A Man Called Ove (Edition 31),Fredrik Backman,Fiction,15.46,86
+The Midnight Library (Edition 31),Matt Haig,Fantasy,15.0,48
+Pride and Prejudice (Edition 31),Jane Austen,Classic,8.05,25
+The Silent Patient (Edition 32),Alex Michaelides,Thriller,12.09,82
+Atomic Habits (Edition 32),James Clear,Self-Help,15.72,47
+It Ends with Us (Edition 32),Colleen Hoover,Romance,15.67,18
+The Hobbit (Edition 32),J.R.R. Tolkien,Fantasy,14.69,43
+Educated (Edition 32),Tara Westover,Memoir,14.24,65
+Ikigai (Edition 32),Héctor García and Francesc Miralles,Self-Help,11.07,94
+Harry Potter and the Philosopher's Stone (Edition 32),J.K. Rowling,Fantasy,15.46,43
+The Alchemist (Edition 32),Paulo Coelho,Fiction,5.94,74
+The Psychology of Money (Edition 32),Morgan Housel,Finance,12.59,10
+Where the Crawdads Sing (Edition 32),Delia Owens,Mystery,9.07,57
+The Book Thief (Edition 32),Markus Zusak,Historical Fiction,10.85,6
+Sapiens (Edition 32),Yuval Noah Harari,History,17.64,79
+A Man Called Ove (Edition 32),Fredrik Backman,Fiction,13.55,31
+The Midnight Library (Edition 32),Matt Haig,Fantasy,10.89,64
+Pride and Prejudice (Edition 32),Jane Austen,Classic,10.88,38
+The Silent Patient (Edition 33),Alex Michaelides,Thriller,11.23,45
+Atomic Habits (Edition 33),James Clear,Self-Help,17.51,20
+It Ends with Us (Edition 33),Colleen Hoover,Romance,13.85,23
+The Hobbit (Edition 33),J.R.R. Tolkien,Fantasy,11.97,42
+Educated (Edition 33),Tara Westover,Memoir,16.26,41
+Ikigai (Edition 33),Héctor García and Francesc Miralles,Self-Help,10.48,87
+Harry Potter and the Philosopher's Stone (Edition 33),J.K. Rowling,Fantasy,13.37,27
+The Alchemist (Edition 33),Paulo Coelho,Fiction,7.18,49
+The Psychology of Money (Edition 33),Morgan Housel,Finance,15.23,55
+Where the Crawdads Sing (Edition 33),Delia Owens,Mystery,11.41,78
+The Book Thief (Edition 33),Markus Zusak,Historical Fiction,12.33,23
+Sapiens (Edition 33),Yuval Noah Harari,History,13.89,32
+A Man Called Ove (Edition 33),Fredrik Backman,Fiction,11.3,87
+The Midnight Library (Edition 33),Matt Haig,Fantasy,15.38,69
+Pride and Prejudice (Edition 33),Jane Austen,Classic,9.5,24
+The Silent Patient (Edition 34),Alex Michaelides,Thriller,10.94,93
+Atomic Habits (Edition 34),James Clear,Self-Help,14.48,87
+It Ends with Us (Edition 34),Colleen Hoover,Romance,14.35,71
+The Hobbit (Edition 34),J.R.R. Tolkien,Fantasy,12.98,32
+Educated (Edition 34),Tara Westover,Memoir,15.5,13
+C++ Programming,Bjarne Stroustrup,Technology,50.0,10
