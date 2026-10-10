@@ -81,7 +81,8 @@ class Bookstore:
     # Generate the report
     def generate_report(self):
         print("\n--- Summary Report ---")
-        
+
+         
         # Use NumPy for numerical analysis
         revenue_array = self.sales['Total Revenue'].values
         price_array = self.inventory['Price'].values
